@@ -1,16 +1,16 @@
-## Hi there 👋
+## Welcome 🙋🏼‍♀️
 
-<!--
-**Sbm26/Sbm26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Spring
+Mechanical Engineer graduate from Uni of Leicester
+I love interdisciplinary challenges!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Status 👩🏼‍💻
+- 🔋 I'm curerently working on: Doing my best
+- 🚀 I’m currently learning: OpenFOAM
+- 🛠️ **My toolbox:** SolidWorks, MATLAB, Python, COMSOL, OpenFOAM (learning), STAR-CCM+
+- 🤔 I have also worked with but would need further experience in: Catia V5, 3DX, Abaqus, Ansys
+  
+- 💬 Ask me about the difference between PISO and SIMPLE algorithm  
+
+- 📧 Find me at:  **LinkedIn:** [linkedin.com/in/sbm26](https://linkedin.com)
