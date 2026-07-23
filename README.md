@@ -1,8 +1,8 @@
 ## Welcome 🙋🏼‍♀️
 
-My name is Spring
-Mechanical Engineer graduate from Uni of Leicester
-I love interdisciplinary challenges!
+- My name is Spring
+- Mechanical Engineer Graduate from Uni of Leicester
+- I love interdisciplinary challenges!
 
 
 ## Status 👩🏼‍💻
