@@ -6,7 +6,7 @@
 
 
 ## Status 👩🏼‍💻
-- 🔋 I'm curerently working on: Doing my best
+- 🔋 I'm currently working on: Doing my best
 - 🚀 I’m currently learning: OpenFOAM
 - 🛠️ **My toolbox:** SolidWorks, MATLAB, Python, COMSOL, OpenFOAM (learning), STAR-CCM+, XFLR5, MSC Adams
 - 🤔 I have also worked with but would need further experience in: Catia V5, 3DX, Abaqus, Ansys
@@ -17,5 +17,5 @@
 
 ## Featured Projects 👩🏼‍🔧
 
-* 🚁 **[Payload Delivery UAV Design](https://github.com/Sbm26/ImechE-UAS-2025)** – This project was Uni of Leicester's entery into IMechE UAS Challenge 2025. I had to lead the team to design and build a UAV meant for humanitarian aid package delivery. Here I explain my thoughtpath for this specific design. Rules PDF linked.
+* 🚁 **[Payload Delivery UAV Design](https://github.com/Sbm26/ImechE-UAS-2025)** – This project was Uni of Leicester's entry into IMechE UAS Challenge 2025. I had to lead the team to design and build a UAV meant for humanitarian aid package delivery. Here I explain my thoughtpath for this specific design. Rules PDF linked.
 
