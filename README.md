@@ -16,3 +16,7 @@
 - 📧 Find me on **LinkedIn:** [linkedin.com/in/sbm26](https://linkedin.com)
 
 ## Featured Projects 👩🏼‍🔧
+
+* 🚁 **[Autonomous Payload Delivery UAV Design](https://github.com/Sbm26/ImechE-UAS-2025)** – This project was University of Leicester's entery into IMechE UAS Challenge 2025
+As a team we had to design and build a UAV meant for humanitarian aid package delivery
+I was assigned to be the Design and CAD team lead by the school of engineering, meaning I led the concept developement, modelling and the manufacturing
