@@ -1,6 +1,6 @@
 ## Welcome 🙋🏼‍♀️
 
-- My name is Spring
+- My name is Spring (Preferred name)
 - Mechanical Engineer Graduate from Uni of Leicester
 - I love interdisciplinary challenges!
 
