@@ -17,6 +17,6 @@
 
 ## Featured Projects 👩🏼‍🔧
 
-* 🚁 **[Payload Delivery UAV Design](https://github.com/Sbm26/ImechE-UAS-2025)** – This project was Uni of Leicester's entry into IMechE UAS Challenge 2025. I had to lead the team to design and build a UAV meant for humanitarian aid package delivery. Here I explain my thoughtpath for this specific design. Rules PDF linked.
+* 🚁 **[Payload Delivery UAV Design](https://github.com/Sbm26/ImechE-UAS-2025)** – This project was Uni of Leicester's entry into IMechE UAS Challenge 2025. I had to lead the team to design and build a UAV meant for humanitarian aid package delivery. Here I explain my reasoning for this specific design. Rules PDF linked.
 
 * ⚙️ **[Wheel Reverse Engineering](https://github.com/Sbm26/sprocket-reverse-engineering)** – A project I did during my Mechanical Design Engineering internship. I had to 3D model a sprocket off of the component itself (which was not in a good shape)
