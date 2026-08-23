@@ -21,7 +21,7 @@
 
 * 🏎️ **[Active Aero (WiP)](https://github.com/Sbm26/Active-RearWing)** – Will share the files soon!
 
- 🏁................................................................Loading........................................................................................................................................🏎️💨..
+ 🏁...............................................................................Loading.........................................................................................................................🏎️💨..
 
 
 * ⚙️ **[Wheel Reverse Engineering](https://github.com/Sbm26/sprocket-reverse-engineering)** – A project I did during my Mechanical Design Engineering internship. I had to 3D model a sprocket off of the component itself (which was not in a good shape)
